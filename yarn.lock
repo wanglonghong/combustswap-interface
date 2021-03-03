@@ -2100,17 +2100,6 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@^0.10.7":
-  version "0.10.7"
-  resolved "https://registry.yarnpkg.com/@pancakeswap-libs/uikit/-/uikit-0.10.7.tgz#e0cccfbcb3035f37e91e72552ac9b83088ef033b"
-  integrity sha512-1AiTNRLHJQ0HLPmI1i8yKTd3aaz0MIDfwiiRy5FJrt/ZqlBWiha16ndOrVBKRSuOUCnr+s75OiDP4szqdk6bPA==
-  dependencies:
-    "@types/lodash" "^4.14.162"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-transition-group "^4.4.1"
-    styled-system "^5.1.5"
-
 "@pedrouid/iso-crypto@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@pedrouid/iso-crypto/-/iso-crypto-1.0.0.tgz#cf06b40ef3da3d7ca7363bd7a521ed59fa2fd13d"
@@ -3294,10 +3283,10 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
-"@zealous4467/cmbstswapsdk@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@zealous4467/cmbstswapsdk/-/cmbstswapsdk-1.0.0.tgz#b4571066610b3c5ba2edf7bec399c03b287b1eba"
-  integrity sha512-cQI5SIPKpfGrq1ZkIWc79gbD8fHomJiO/ai4mT4wAmDVNyUCuV7Ax7Kpa7EEf0MDANnCn3ssFr/9wa7kmvj2fQ==
+"@zealous4467/cmbstswapsdk@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@zealous4467/cmbstswapsdk/-/cmbstswapsdk-1.0.1.tgz#6cc8dd1baa0f2c86713824b48268a9679084bc3d"
+  integrity sha512-feV2wrpXiRNfvsEiMgUHUCbpcg/yKNp7dqDMrWINgtTTbxvRPha+dU7/Pvv02PdNNk02G4q7j373WUR/j/amWg==
   dependencies:
     big.js "^5.2.2"
     decimal.js-light "^2.5.0"
@@ -3305,6 +3294,17 @@
     tiny-invariant "^1.1.0"
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
+
+"@zealous4467/cmbstswapuikit@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@zealous4467/cmbstswapuikit/-/cmbstswapuikit-1.0.4.tgz#0f177f7906a44f89c92430de8da73157f967872e"
+  integrity sha512-3R97snsIH5/ip0bndn+h+ptbngZne712/Hp6evzrRqWDkY83KzbMAJrxZgBAMyNCbA94VoVuiYRGT87YeNdNeQ==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
 
 "@zeit/schemas@2.6.0":
   version "2.6.0"

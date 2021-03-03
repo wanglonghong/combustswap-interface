@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@pancakeswap-libs/uikit'
+import { Text } from '@zealous4467/cmbstswapuikit'
 import { ChainId, Currency, currencyEquals, ETHER, Token } from '@zealous4467/cmbstswapsdk'
 import styled from 'styled-components'
 

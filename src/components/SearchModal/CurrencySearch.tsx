@@ -1,6 +1,6 @@
 import { Currency, ETHER, Token } from '@zealous4467/cmbstswapsdk'
 import React, { KeyboardEvent, RefObject, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react'
-import { Text, CloseIcon } from '@pancakeswap-libs/uikit'
+import { Text, CloseIcon } from '@zealous4467/cmbstswapuikit'
 import { useSelector } from 'react-redux'
 import { useTranslation } from 'react-i18next'
 import { FixedSizeList } from 'react-window'

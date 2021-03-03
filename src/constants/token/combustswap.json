@@ -21,7 +21,7 @@
     {
       "name": "Combust Token",
       "symbol": "CMBST",
-      "address": "0xcaba1283D292C2D8470c0344162743B0488964d0",
+      "address": "0x5d3a2568c4079eeada9aaa6cbfc5eeea2bfcfa79",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/BUSD.png"

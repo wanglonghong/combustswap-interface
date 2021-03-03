@@ -1,7 +1,7 @@
 import { Trade } from '@zealous4467/cmbstswapsdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
-import { Flex, Text } from '@pancakeswap-libs/uikit'
+import { Flex, Text } from '@zealous4467/cmbstswapuikit'
 import { ThemeContext } from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'
 

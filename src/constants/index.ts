@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@zealous4467/cmbstswapsdk'
 
-export const ROUTER_ADDRESS = '0x249db100fd9062b705e4c75d15d1eee493c49547'
+export const ROUTER_ADDRESS = '0x3F29C1B9c6B58e764cad6Bbc489727B20a03b5B5'
 
 // a list of tokens by chain
 type ChainTokenList = {
