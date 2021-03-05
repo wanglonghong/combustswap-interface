@@ -36,10 +36,6 @@ const config: MenuEntry[] = [
     icon: 'MoreIcon',
     items: [
       {
-        label: 'Voting',
-        href: 'https://voting.combust.finance',
-      },
-      {
         label: 'Github',
         href: 'https://github.com/combustswap',
       },
