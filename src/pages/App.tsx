@@ -46,7 +46,7 @@ const BodyWrapper = styled.div`
   }
 
   ${({ theme }) => theme.mediaQueries.lg} {
-    background-image: url('/images/arch-${({ theme }) => (theme.isDark ? 'dark' : 'light')}.svg'),
+    background-image: url('/images/arch-${({ theme }) => ('dark')}.svg'),
       url('/images/left-pancake.svg'), url('/images/right-pancake.svg');
     background-repeat: no-repeat;
     background-position: center 420px, 10% 230px, 90% 230px;
