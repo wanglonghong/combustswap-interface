@@ -37,15 +37,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/combustswap',
+        href: 'https://github.com/CombustFinance',
       },
       {
-        label: 'Docs',
-        href: 'https://docs.combustswap.finance',
-      },
-      {
-        label: 'Blog',
-        href: 'https://combustswap.medium.com',
+        label: 'Medium',
+        href: 'https://medium.com/@combust_finance',
       },
     ],
   },
