@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@zealous4467/cmbstswapsdk'
 
-export const ROUTER_ADDRESS = '0x3F29C1B9c6B58e764cad6Bbc489727B20a03b5B5'
+export const ROUTER_ADDRESS = '0x14A86D60DbC0a03f89e684Cfe21dc5B1473b8511'
 
 // a list of tokens by chain
 type ChainTokenList = {
@@ -52,7 +52,7 @@ export const BASES_TO_TRACK_LIQUIDITY_FOR: ChainTokenList = {
 export const PINNED_PAIRS: { readonly [chainId in ChainId]?: [Token, Token][] } = {
   [ChainId.MAINNET]: [
     [
-      new Token(ChainId.MAINNET, '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82', 18, 'CAKE', 'PancakeSwap Token'),
+      new Token(ChainId.MAINNET, '0xbE3F4046ca72252F91A6A598F81398065C50059f', 18, 'CMBST', 'CombustSwap Token'),
       new Token(ChainId.MAINNET, '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c', 18, 'WBNB', 'Wrapped BNB'),
     ],
     [BUSD, USDT],

@@ -6,7 +6,7 @@
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
-    "@zealous4467/cmbstswapsdk": "1.0.2",
+    "@zealous4467/cmbstswapsdk": "1.0.3",
     "@zealous4467/cmbstswapuikit": "^1.2.3",
     "@popperjs/core": "^2.4.4",
     "@reach/dialog": "^0.10.3",
